@@ -1,0 +1,16 @@
+Longsword,Weapon,30,10.0,5
+Shortbow,Weapon,10,5.0,5
+Grimoire,Weapon,10,10.0,5
+Gambeson,Armor,10,3.0,5
+Brigandine,Armor,10,12.0,5
+Plate,Armor,5,50.0,2
+Elixer,Consumable,15,30.0,5
+Antidote,Consumable,20,15.0,10
+Longsword,Weapon,10,8.0,5
+Shortbow,Weapon,10,5.0,5
+Grimoire,Weapon,10,10.0,5
+Gambeson,Armor,10,3.0,5
+Brigandine,Armor,10,12.0,5
+Plate,Armor,5,50.0,2
+Elixer,Consumable,15,30.0,5
+Antidote,Consumable,20,15.0,10
